@@ -1,0 +1,2 @@
+<!-- Thresholding -->
+https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
